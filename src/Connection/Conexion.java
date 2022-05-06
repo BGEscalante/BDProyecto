@@ -18,7 +18,7 @@ public class Conexion extends ListClass {
 
     private String db = "system_ventas";
     private String user = "root";
-    private String password = "*Goldenrod**22**";
+    private String password = "*Contraseña123";
     private String urlMysql = "jdbc:mysql://localhost:3307/";
    // private String urlMysql = "jdbc:mysql://localhost/" + db + "?SslMode=none";
     //private String urlSql = "jdbc:sqlserver://localhost:1433;databaseName=" + db + ";integratedSecurity=true;";
